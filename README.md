@@ -24,7 +24,7 @@ Doing so, the programming committee will be able to identify where and when the 
 - The output file is `Submission.csv`.
 
 ## Approach
-To know how to solve the problem statement [Approach](https://github.com/developedbysm/AV-Jobathon-May-21/blob/main/Approach.docx)
+To know how to solve the problem statement [Approach](https://github.com/developedbysm/AV-Recommendation-Engine/blob/main/Approach.docx)
 
 ## Conclusion
 We have obtained a good f1_score score for test data. The thresholds for each of the model has helped in decent split and we have successfully achieved the objective
@@ -38,7 +38,7 @@ The models can be tuned for hyperparameter optimization, but because the trainin
 ### Leader Board – private leaderboard : 34
 
 
-This dataset was part of Recommendation Engine conducted my Analytics Vidhya, for more info check:[Link to Competition](https://github.com/developedbysm/AV-Recommendation-Engine/blob/main/Approach01.docx)
+This dataset was part of Recommendation Engine conducted my Analytics Vidhya, for more info check:[Link to Competition](https://datahack.analyticsvidhya.com/contest/practice-problem-recommendation-engine/)
 
 ![Star](https://img.shields.io/github/stars/developedbysm/AV-Recommendation-Engine.svg)
 
