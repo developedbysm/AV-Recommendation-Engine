@@ -38,7 +38,7 @@ The models can be tuned for hyperparameter optimization, but because the trainin
 ### Leader Board – private leaderboard : 34
 
 
-This dataset was part of Recommendation Engine conducted my Analytics Vidhya, for more info check:[Link to Competition](https://github.com/developedbysm/AV-Recommendation-Engine/blob/main/Approach.docx)
+This dataset was part of Recommendation Engine conducted my Analytics Vidhya, for more info check:[Link to Competition](https://github.com/developedbysm/AV-Recommendation-Engine/blob/main/Approach01.docx)
 
 ![Star](https://img.shields.io/github/stars/developedbysm/AV-Recommendation-Engine.svg)
 
