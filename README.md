@@ -21,7 +21,7 @@ Since the users are on different levels in their programming skills, the goal of
 Doing so, the programming committee will be able to identify where and when the user will get stuck during coding and thus, will be able to the users individually by giving relevant hints or suggestions to the problems they face automatically. 
 
 - The Notebook file is `Recommendation Engine.ipynb`.
-- The output file is `Submission.csv`.
+- The output file is `submission.csv`.
 
 ## Approach
 To know how to solve the problem statement [Approach](https://github.com/developedbysm/AV-Recommendation-Engine/blob/main/Approach.docx)
